@@ -4,8 +4,10 @@ body { background: #656839; }
 .card { border-radius: 1rem; }
 
 header {
-    background-color: #514B23;
     color: white;
-
 }
 
+.header {
+    background-color: #514B23;
+
+}
