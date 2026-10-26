@@ -1,13 +1,31 @@
 /* Customize this design to match your story. Keep the responsive Bootstrap layout. */
 body { background: #656839; }
 .story-output { min-height: 8rem; line-height: 1.7; white-space: normal; }
-.card { border-radius: 1rem; }
+.card { border-radius: 1rem; 
+
+/* font-family: 'Mystery Quest'; */
+
+}
 
 header {
     color: white;
 }
 
 .header {
-    background-color: #514B23;
+    font-family: 'Mystery Quest';
 
+}
+
+.mont {
+font-family: 'Montserrat Alternates'; 
+
+}
+
+.green {
+    color: #656839;
+
+}
+
+.white {
+    color: white;
 }
